@@ -6,7 +6,7 @@ This is the readme file for Full_potential_steering_auto.py
   /   | [1] |  '.           X B O X            .'  |  _  |   \                                      |   
  / ___| /|\ |___ \                            / ___| {4} |___ \                                     |                         
 / |      |      | ;  __                  _   ; | _         _ | ;                                    |   
-| | <---  --->[0] | |__|                |_|  | |{3}       {1}| |                                    |   NOTE : *********** Button Mapping Must Be Checked ***********
+| | <---  --->[0] | |__|                |_|  | |{3}       {1}| |                                    |   NOTE : *********** Button Mapping Must Be Checked *********** 
 | |___   |   ___| ;SELECT              START ; |___   _   ___| ;                                    |           
 |\    | \|/ |    /            _____           \    | {0} |    /|                                    |   
 | \   |_____|  .','"""""',    |___|  ,""[3]"', '.  |_____|  .' |                                    |   
