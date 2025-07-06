@@ -1,4 +1,7 @@
-This is the readme file for Full_potential_steering_auto.py
+### This is the readme file for Full_potential_steering_auto.py
+
+---
+<pre>
         {5}                                          {4}
       _=====_                                      _=====_                                          |   [0], [1], [2], [3] ==> axes
      / _{6}_ \                                    / _{7}_ \                                         |   
@@ -18,12 +21,10 @@ This is the readme file for Full_potential_steering_auto.py
  \          /                                     \           /                                     |    
   \________/                                       \_________/                                      |   
 
+</pre>
+---
 
-
-
-
-
-Control Flowchart --->>>>
+### Control Flowchart --->>>>
     .                                                            Tunrn ON
     .                                                               |
     .                        (Manual)                               |                             (Autonomous)       
